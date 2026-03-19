@@ -1,6 +1,6 @@
 cask "devdock" do
-  version "0.1.0"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  version "0.1.1"
+  sha256 "f3ac924871d0170bb4e0555b6f42f4fee79b03465c7a34b7d1cf647896e19345"
 
   url "https://github.com/LouisLeeLabs/devdock/releases/download/v#{version}/DevDock_#{version}_aarch64.dmg"
   name "DevDock"
